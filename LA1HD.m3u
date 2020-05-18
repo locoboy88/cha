@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,LA 1 HD
+#EXTVLCOPT:program=30819
+http://192.168.1.34:8001/1:0:19:7863:41A:1:C00000:0:0:0:
