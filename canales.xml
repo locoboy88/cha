@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- service references can be found in /etc/enigma2/lamedb -->
+<channels>
+<!-- INFO Movistar + Spain -->
+<!-- INFO Astra (19.2E) -->
+<channel id="LA 1">1:0:19:7863:41A:1:C00000:0:0:0:</channel> <!-- LA 1 HD -->
+
+
+</channels>
